@@ -15,7 +15,7 @@ This study investigates the aerodynamic performance degradation of NACA 4418 air
 - Sand particles increase turbulence kinetic energy at the trailing edge.
 
 ## 📈 Results Visualization
-![Pressure Contour](https://github.com/rasyidsq/naca4418-cfd-study/blob/main/pressure%20contour%2010%20ms.png)
+![Pressure Contour](https://github.com/rasyidsq/naca4418-cfd-study/blob/main/pressure%20contour%2010%20ms.png) (https://github.com/rasyidsq/naca4418-cfd-study/blob/main/pressure%20contour%208ms.png). (https://github.com/rasyidsq/naca4418-cfd-study/blob/main/pressure%20contourn%206%20ms.png)
 
 ## 📄 Full Thesis
 [Download Full Thesis PDF](https://github.com/rasyidsq/naca4418-cfd-study/blob/main/Thesis.pdf)
